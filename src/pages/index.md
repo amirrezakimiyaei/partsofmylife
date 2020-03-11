@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: برونداد
+title: قسمتی از زندگی من
 image: /img/home-jumbotron.jpg
-heading: برونداد
-subheading: درباره طراحی محصول آنلاین
+heading: قسمتی از زندگی من
+subheading: بلاگی توسط من امیررضا کیمیایی
 mainpitch:
   title: '--'
   description: تست
